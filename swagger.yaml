@@ -1,0 +1,20 @@
+- car_id: 1
+  color: Red
+  description: High speed vehicle
+  name: mango
+- car_id: 2
+  color: Blue
+  description: Self driving car
+  name: Tesla
+- car_id: 3
+  color: Black
+  description: Vampire heads
+  name: Bentely
+- car_id: 4
+  color: Blue
+  description: Black Ghost
+  name: Rolls Royce
+- car_id: 5
+  color: Cyan
+  description: Dolphins style
+  name: Mercedes

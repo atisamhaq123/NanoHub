@@ -1,0 +1,12 @@
+##Libraries to be installed
+ pip install fastapi 
+
+ pip install uvicorn[standard] 
+
+
+##run this command on console
+uvicorn app:app --reload
+
+## http://127.0.0.1:8000/cars
+
+##swagger.yaml file is given here.
